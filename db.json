@@ -1,0 +1,19 @@
+{
+  "profile": [
+    {
+      "nome": "Pedro",
+      "email": "pedroandradecontato@alura.com",
+      "id": 1
+    },
+    {
+      "nome": "Abigail",
+      "email": "abigailcharoy@alura.com",
+      "id": 2
+    },
+    {
+      "nome": "Pedro Andrade",
+      "email": "pedro@email.com",
+      "id": 3
+    }
+  ]
+}
